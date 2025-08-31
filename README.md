@@ -36,7 +36,7 @@ sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
 ### 🚀 Deployment Options  
 
 <p align="center">
-<a href="[🚀 Deploy to Heroku](https://dashboard.heroku.com/new?template=https://github.com/iamnobita09/NOBITA_MUSIC)"/>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/iamnobita09/NOBITA_MUSIC"/>
 </a>
 
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/iamnobita09/NOBITA_MUSIC&branch=main&name=nobita-music">
